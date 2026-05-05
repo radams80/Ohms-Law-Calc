@@ -1,9 +1,10 @@
-//mod input;
-//mod calc;
-//mod output;
+mod input;
+mod calc;
+mod output;
+
 
 fn main() {
-    println!("Ohm's Law Calculator - Week 1 Checkpoint");
+    println!("Ohm's Law Calculator");
 
     let choice = input::get_menu_choice();
 
@@ -27,7 +28,7 @@ fn main() {
             output::display_result("Resistance", result, "Ohms");
         }
         _ => {
-            output::display_error("Invalid menu choice.");
-        }
+    output::display_error("Error: Invalid menu choice. Please select 1, 2, or 3.");
+}
     }
 }
