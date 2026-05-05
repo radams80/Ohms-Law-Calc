@@ -2,7 +2,6 @@ mod input;
 mod calc;
 mod output;
 
-
 fn main() {
     println!("Ohm's Law Calculator");
 
@@ -28,7 +27,7 @@ fn main() {
             output::display_result("Resistance", result, "Ohms");
         }
         _ => {
-    output::display_error("Error: Invalid menu choice. Please select 1, 2, or 3.");
-}
+            output::display_error("Invalid menu choice. Please choose 1, 2, or 3.");
+        }
     }
 }
