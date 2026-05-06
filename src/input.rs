@@ -1,4 +1,5 @@
 use std::io;
+// input handling section
 
 pub fn get_menu_choice() -> u32 {
     println!("Choose what to calculate:");
