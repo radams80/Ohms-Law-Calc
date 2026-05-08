@@ -1,1 +1,1 @@
-C:\Users\robert.adams\Ohms-Law-Calc\target\debug\Ohms-Law-Calc.exe: C:\Users\robert.adams\Ohms-Law-Calc\src\calc.rs C:\Users\robert.adams\Ohms-Law-Calc\src\input.rs C:\Users\robert.adams\Ohms-Law-Calc\src\main.rs C:\Users\robert.adams\Ohms-Law-Calc\src\output.rs
+C:\Users\robert.adams\Ohms-Law-Calc\target\debug\ohms-law-calc.exe: C:\Users\robert.adams\Ohms-Law-Calc\src\calc.rs C:\Users\robert.adams\Ohms-Law-Calc\src\input.rs C:\Users\robert.adams\Ohms-Law-Calc\src\main.rs C:\Users\robert.adams\Ohms-Law-Calc\src\output.rs

@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "Ohms-Law-Calc"
+name = "ohms-law-calc"
 version = "0.1.0"

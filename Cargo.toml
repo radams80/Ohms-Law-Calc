@@ -1,6 +1,4 @@
 [package]
-name = "Ohms-Law-Calc"
+name = "ohms-law-calc"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
